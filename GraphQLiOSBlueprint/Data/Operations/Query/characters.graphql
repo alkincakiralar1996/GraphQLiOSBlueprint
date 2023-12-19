@@ -1,0 +1,9 @@
+query characters {
+  characters {
+    results {
+      id
+      image
+      status
+    }
+  }
+}
